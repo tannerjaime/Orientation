@@ -1,3 +1,3 @@
-## my nodeschool work 
+## My NodeSchool Work 
 
-bla bla 
+Practices exercises while learning node.js
